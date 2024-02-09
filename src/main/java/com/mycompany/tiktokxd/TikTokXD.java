@@ -19,5 +19,6 @@ public class TikTokXD {
 
         // Mostrar información del usuario
         usuario.mostrarInfoUsuario();
+        System.out.println("ESTO ES NUEVO");
     }
 }
